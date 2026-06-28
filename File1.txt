@@ -5,3 +5,5 @@ Adding third line to pull from hub
 this is done in master node
 Adding line in main to get merge conflict
 
+for merge conflict
+
