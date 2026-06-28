@@ -3,5 +3,5 @@ hello this is sona
 Adding third line to pull from hub
 
 this is done in master node
-Adding new line in main
+Adding new line in main branch
 for merge conflict 
