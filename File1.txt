@@ -2,13 +2,13 @@ This is the new file for the assignment
 hello this is sona
 Adding third line to pull from hub
 
-<<<<<<< HEAD
 this is done in master node
 Adding line in main to get merge conflict
 
 for merge conflict
 
-=======
 this is done in branch node named feature branch
 Adding new line in feature branch2
->>>>>>> 2d34b08 (Updated file2.txt in branch)
+
+this is done in branch node named feature branch2
+for conflict in branch
