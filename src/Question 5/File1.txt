@@ -1,1 +1,6 @@
-
+this is qn 5 file1.txt
+line 1 for q5 branch 
+line 2 for q5 branch 
+line 3 for q5 branch 
+line 4 for q5 branch 
+for revert and rebase
